@@ -1,0 +1,195 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2019-11-25T05:55:05.708Z",
+        "line": 18,
+        "name": "Eating",
+        "description": "",
+        "id": "eating-fruits;eating;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8124400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "There are \"12\" fruits",
+            "match": {
+              "arguments": [
+                {
+                  "val": "12",
+                  "offset": 11
+                }
+              ],
+              "location": "datatablereport.fruits(String,DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "type",
+                  "with"
+                ]
+              },
+              {
+                "cells": [
+                  "apples",
+                  "me"
+                ]
+              },
+              {
+                "cells": [
+                  "mango",
+                  "john"
+                ]
+              },
+              {
+                "cells": [
+                  "orange",
+                  "mohan"
+                ]
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 577300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I eat \"5\" fruits",
+            "match": {
+              "arguments": [
+                {
+                  "val": "5",
+                  "offset": 7
+                }
+              ],
+              "location": "datatablereport.whenieat(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 681000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I have \"7\" fruits",
+            "match": {
+              "arguments": [
+                {
+                  "val": "7",
+                  "offset": 8
+                }
+              ],
+              "location": "datatablereport.heworks(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-11-25T05:55:05.785Z",
+        "line": 19,
+        "name": "Eating",
+        "description": "",
+        "id": "eating-fruits;eating;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2907700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "There are \"10\" fruits",
+            "match": {
+              "arguments": [
+                {
+                  "val": "10",
+                  "offset": 11
+                }
+              ],
+              "location": "datatablereport.fruits(String,DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "type",
+                  "with"
+                ]
+              },
+              {
+                "cells": [
+                  "apples",
+                  "me"
+                ]
+              },
+              {
+                "cells": [
+                  "mango",
+                  "john"
+                ]
+              },
+              {
+                "cells": [
+                  "orange",
+                  "mohan"
+                ]
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 645200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I eat \"6\" fruits",
+            "match": {
+              "arguments": [
+                {
+                  "val": "6",
+                  "offset": 7
+                }
+              ],
+              "location": "datatablereport.whenieat(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 518200,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I have \"4\" fruits",
+            "match": {
+              "arguments": [
+                {
+                  "val": "4",
+                  "offset": 8
+                }
+              ],
+              "location": "datatablereport.heworks(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Eating fruits",
+    "description": "this features explains about fruits",
+    "id": "eating-fruits",
+    "keyword": "Feature",
+    "uri": "classpath:packagereport/data1.feature",
+    "tags": []
+  }
+]
