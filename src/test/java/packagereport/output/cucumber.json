@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2019-11-25T05:55:05.708Z",
+        "start_timestamp": "2019-11-26T04:01:03.462Z",
         "line": 18,
         "name": "Eating",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 8124400,
+              "duration": 11865200,
               "status": "passed"
             },
             "line": 5,
@@ -57,7 +57,7 @@
           },
           {
             "result": {
-              "duration": 577300,
+              "duration": 1494400,
               "status": "passed"
             },
             "line": 13,
@@ -75,7 +75,7 @@
           },
           {
             "result": {
-              "duration": 681000,
+              "duration": 1367000,
               "status": "passed"
             },
             "line": 14,
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "start_timestamp": "2019-11-25T05:55:05.785Z",
+        "start_timestamp": "2019-11-26T04:01:03.691Z",
         "line": 19,
         "name": "Eating",
         "description": "",
@@ -104,7 +104,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2907700,
+              "duration": 2514500,
               "status": "passed"
             },
             "line": 5,
@@ -148,7 +148,7 @@
           },
           {
             "result": {
-              "duration": 645200,
+              "duration": 617000,
               "status": "passed"
             },
             "line": 13,
@@ -166,7 +166,7 @@
           },
           {
             "result": {
-              "duration": 518200,
+              "duration": 502100,
               "status": "passed"
             },
             "line": 14,
